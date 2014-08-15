@@ -98,7 +98,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="885">
               <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-              <folding />
+              <folding>
+                <marker date="1408071972000" expanded="true" signature="624:1345" placeholder="..." />
+                <marker date="1408071972000" expanded="true" signature="1180:1325" placeholder="..." />
+                <marker date="1408071972000" expanded="true" signature="1358:1825" placeholder="..." />
+                <marker date="1408071972000" expanded="true" signature="1376:1812" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -650,7 +655,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="885">
           <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1408071972000" expanded="true" signature="624:1345" placeholder="..." />
+            <marker date="1408071972000" expanded="true" signature="1180:1325" placeholder="..." />
+            <marker date="1408071972000" expanded="true" signature="1358:1825" placeholder="..." />
+            <marker date="1408071972000" expanded="true" signature="1376:1812" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
