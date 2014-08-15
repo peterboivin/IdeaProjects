@@ -8,7 +8,7 @@
           <element id="module-output" name="AppEngineGuestBook" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="app-engine" />
+          <element id="library" level="project" name="app-engine-1.9.9" />
         </element>
       </element>
     </root>
