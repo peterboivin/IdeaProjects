@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="app-engine">
+    <CLASSES>
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/orm/jdo2-api-2.3-eb.jar!/" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/orm/datanucleus-core-1.1.5.jar!/" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/orm/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/orm/geronimo-jpa_3.0_spec-1.1.1.jar!/" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/orm/datanucleus-jpa-1.1.5.jar!/" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/orm/datanucleus-appengine-1.0.10.final.jar!/" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/appengine-api-1.0-sdk-1.9.9.jar!/" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/appengine-api-labs-1.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/appengine-api-labs-1.9.9.jar!/com/google/appengine/labs/repackaged/com/google/common/base/super" />
+      <root url="jar://$APP_ENGINE_SDK_HOME$/lib/user/appengine-api-labs-1.9.9.jar!/com/google/appengine/labs/repackaged/com/google/common/util/super" />
+    </SOURCES>
+  </library>
+</component>
